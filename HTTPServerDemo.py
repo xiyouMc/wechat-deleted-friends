@@ -23,8 +23,6 @@ import time
 # import Image
 # import cStringIO
 
-
-
 DEBUG = False
 
 MAX_GROUP_NUM = 35 # 每组人数
